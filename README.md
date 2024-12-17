@@ -11,6 +11,3 @@ brew install --cask --no-quarantine sylvanfranklin/xmcl
 
 > [!NOTE]
 >  Since the app bundle is not signed yet, you will have to disable quarantine. 
-
-## limitations
-Currently the app icon is messed up for me, hopefully will be resolved shortly.
