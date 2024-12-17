@@ -10,7 +10,7 @@ cask "xmcl" do
     url :url
     strategy :header_match
   end
-
+  
   app "X Minecraft Launcher.app"
 
   zap trash: [
