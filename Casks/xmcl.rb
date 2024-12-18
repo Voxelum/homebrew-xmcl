@@ -23,9 +23,9 @@ cask "xmcl" do
   app "X Minecraft Launcher.app"
 
   zap trash: [
-    "/System/Volumes/Data/Applications/X Minecraft Launcher.app",
-    "/Users/sylvanfranklin/Library/Application Support/xmcl",
-    "/Users/sylvanfranklin/Library/Preferences/xmcl.plist",
-    "/Users/sylvanfranklin/Library/Saved Application State/xmcl.savedState"
+    "~/Applications/X Minecraft Launcher.app",
+    "~/Library/Application Support/xmcl",
+    "~/Library/Preferences/xmcl.plist",
+    "~/Library/Saved Application State/xmcl.savedState"
   ]
 end
