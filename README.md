@@ -5,8 +5,8 @@ Launcher](https://github.com/Voxelum/x-minecraft-launcher)
 
 Tap and install
 ```sh
-brew tap sylvanfranklin/xmcl
-brew install --cask --no-quarantine sylvanfranklin/xmcl 
+brew tap voxelum/xmcl
+brew install --cask --no-quarantine voxelum/xmcl 
 ```
 
 > [!NOTE]
